@@ -1,0 +1,643 @@
+[
+	{
+		"prog_id": 1,
+		"prog_date": "2017-03-05",
+		"prog_desc": "STK Zokiny",
+		"contenu":[
+			{
+				"c_id": 1,
+				"c_type": "Chant",
+				"c_titre": "FFPM 7:1,2",
+				"c_contenu": "1. Misaora an'Andriamanitra
+				Izay nanao ny lanitra.
+				Namorona ny tany koa
+				Sy 'zay rehetra mahasoa
+				\
+				2. Derao ny voninahiny,
+				Ankalazao ny heriny,
+				Jereo ny fitiavany
+				Tsy tambonao tononina.",
+				"c_ordre": 1
+			},
+			{
+				"c_id": 2,
+				"c_type": "Chant",
+				"c_titre": "FF 8:1",
+				"c_contenu": "1. Masoko manganohano,
+					Nitomany feno rano
+					Noho ny helok'efa vita,
+					Dia mitony raha nahita
+					Masonao be fiantra
+					Ry Mpamonjy ny mahantra
+					O Voavotrao 'lay very
+					Ry fitiavana mahery. ",
+				"c_ordre": 2
+			},
+			{
+				"c_id": 3,
+				"c_type": "Chant",
+				"c_titre": "FFPM 205:1",
+				"c_contenu": "2. Ny tenin'ny Baiboly
+					No sabatra entinay
+					Handresy ny devoly,
+					'Lay fahavalonay;
+					Raha misy mampahory,
+					Ka osa izahay
+					Ny teninao mahery
+					Manjary tanjakay",
+				"c_ordre": 3
+			},
+			{
+				"c_id": 4,
+				"c_type": "Lecture",
+				"c_titre": "II Rois 22:15-20",
+				"c_contenu": "22.15 Après qu'ils eurent parlé, elle leur dit: Ainsi parle l'Éternel, le Dieu d'Israël: Dites à l'homme qui vous a envoyés vers moi:\n22.16 Ainsi parle l'Éternel: Voici, je vais faire venir des malheurs sur ce lieu et sur ses habitants, selon toutes les paroles du livre qu'a lu le roi de Juda.\n22.17 Parce qu'ils m'ont abandonné et qu'ils ont offert des parfums à d'autres dieux, afin de m'irriter par tous les ouvrages de leurs mains, ma colère s'est enflammée contre ce lieu, et elle ne s'éteindra point.\n22.18 Mais vous direz au roi de Juda, qui vous a envoyés pour consulter l'Éternel: Ainsi parle l'Éternel, le Dieu d'Israël, au sujet des paroles que tu as entendues:\n22.19 Parce que ton coeur a été touché, parce que tu t'es humilié devant l'Éternel en entendant ce que j'ai prononcé contre ce lieu et contre ses habitants, qui seront un objet d'épouvante et de malédiction, et parce que tu as déchiré tes vêtements et que tu as pleuré devant moi, moi aussi, j'ai entendu, dit l'Éternel.\n22.20 c'est pourquoi, voici, je te recueillerai auprès de tes pères, tu seras recueilli en paix dans ton sépulcre, et tes yeux ne verront pas tous les malheurs que je ferai venir sur ce lieu. Ils rapportèrent au roi cette réponse.",
+				"c_ordre": 4
+			},
+			{
+				"c_id": 5,
+				"c_type": "Lecture",
+				"c_titre": "Matthieu  9:9-13",
+				"c_contenu": "9.9 De là étant allé plus loin, Jésus vit un homme assis au lieu des péages, et qui s'appelait Matthieu. Il lui dit: Suis-moi. Cet homme se leva, et le suivit.\n9.10 Comme Jésus était à table dans la maison, voici, beaucoup de publicains et de gens de mauvaise vie vinrent se mettre à table avec lui et avec ses disciples.\n9.11 Les pharisiens virent cela, et ils dirent à ses disciples: Pourquoi votre maître mange-t-il avec les publicains et les gens de mauvaise vie?\n9.12 Ce que Jésus ayant entendu, il dit: Ce ne sont pas ceux qui se portent bien qui ont besoin de médecin, mais les malades.\n9.13 Allez, et apprenez ce que signifie: Je prends plaisir à la miséricorde, et non aux sacrifices. Car je ne suis pas venu appeler des justes, mais des pécheurs.",
+				"c_ordre": 5
+			},
+			{
+				"c_id": 6,
+				"c_type": "Lecture",
+				"c_titre": "Hébreux 12:2-6",
+				"c_contenu": "12.1 Nous donc aussi, puisque nous sommes environnés d'une si grande nuée de témoins, rejetons tout fardeau, et le péché qui nous enveloppe si facilement, et courons avec persévérance dans la carrière qui nous est ouverte,\n12.2 ayant les regards sur Jésus, le chef et le consommateur de la foi, qui, en vue de la joie qui lui était réservée, a souffert la croix, méprisé l'ignominie, et s'est assis à la droite du trône de Dieu.\n12.3 Considérez, en effet, celui qui a supporté contre sa personne une telle opposition de la part des pécheurs, afin que vous ne vous lassiez point, l'âme découragée.\n12.4 Vous n'avez pas encore résisté jusqu'au sang, en luttant contre le péché.\n12.5 Et vous avez oubliez l'exhortation qui vous est adressée comme à des fils: Mon fils, ne méprise pas le châtiment du Seigneur, Et ne perds pas courage lorsqu'il te reprend;\n12.6 Car le Seigneur châtie celui qu'il aime, Et il frappe de la verge tous ceux qu'il reconnaît pour ses fils.",
+				"c_ordre": 6
+			},
+			{
+				"c_id": 7,
+				"c_type": "Chant",
+				"c_titre": "FF 15:2",
+				"c_contenu": "2. Jesosy Zokiko ô ! Raiso aho\nHo isan'ireo zandrinao tianao\nNeniko ireny taloha fa hiova aho\nRaiso aho ! Raiso aho Jeso ho Anao.\nTompo ô! Tompo ô! Inty aho\nRaiso mba ho isan'ireo zandrinao\nFa izaho 'zay nania dia hiova\nHanaraka ny didinao Jeso!",
+				"c_ordre": 7
+			},
+			{
+				"c_id": 8,
+				"c_type": "Chant",
+				"c_titre": "FFPM 248:1",
+				"c_contenu": "1. Nitondra ny zaza ny reny tao Salema,\nMba hotahin'i Jeso Kristy be indrafo;\nNolavin'ny mpianatra izy,\nNefa hoy Jesosy hoe:\nAvelao ny zaza hanatona izao",
+				"c_ordre": 8
+			},
+			{
+				"c_id": 9,
+				"c_type": "Chant",
+				"c_titre": "FFPM 336",
+				"c_contenu": "1. Ampodio izahay, Jehovah\nAmin'ny fitianao;\nNa aiza na aiza no haleha,\nAoka ho vimbininao:\nÔ! ambino,:,:\nIzahay, mpanomponao.\ \n2. Fa ny teny renay any\nAoka ho tadidy koa,\nKa mba hiasanay saina\nHahazoanay ny soa\nIsan'andro :,:\nIzay hiainanay aty.",
+				"c_ordre": 9
+			},
+			{
+				"c_id": 10,
+				"c_type": "Participants",
+				"c_titre": "Pasteur",
+				"c_contenu": "RAKOTOMALALA Niry",
+				"c_ordre": 10
+			},
+			{
+				"c_id": 11,
+				"c_type": "Participants",
+				"c_titre": "Diakona",
+				"c_contenu": "RAKOTOMALALA Andry",
+				"c_ordre": 11
+			}
+		]
+	}
+	,
+	{
+		"prog_id": 2,
+		"prog_date": "2017-03-12",
+		"prog_desc": "Pâques",
+		"contenu":[
+			{
+				"c_id": 1,
+				"c_type": "Chant",
+				"c_titre": "FFPM 7:1,2",
+				"c_contenu": "1. Misaora an'Andriamanitra
+				Izay nanao ny lanitra.
+				Namorona ny tany koa
+				Sy 'zay rehetra mahasoa
+				\
+				2. Derao ny voninahiny,
+				Ankalazao ny heriny,
+				Jereo ny fitiavany
+				Tsy tambonao tononina.",
+				"c_ordre": 1
+			},
+			{
+				"c_id": 2,
+				"c_type": "Chant",
+				"c_titre": "FF 8:1",
+				"c_contenu": "1. Masoko manganohano,
+				Nitomany feno rano
+				Noho ny helok'efa vita,
+				Dia mitony raha nahita
+				Masonao be fiantra
+				Ry Mpamonjy ny mahantra
+				O Voavotrao 'lay very
+				Ry fitiavana mahery. ",
+				"c_ordre": 2
+			},
+			{
+				"c_id": 3,
+				"c_type": "Chant",
+				"c_titre": "FFPM 205:1",
+				"c_contenu": "2. Ny tenin'ny Baiboly
+				No sabatra entinay
+				Handresy ny devoly,
+				'Lay fahavalonay;
+				Raha misy mampahory,
+				Ka osa izahay
+				Ny teninao mahery
+				Manjary tanjakay",
+				"c_ordre": 3
+			},
+			{
+				"c_id": 4,
+				"c_type": "Lecture",
+				"c_titre": "II Rois 22:15-20",
+				"c_contenu": "22.15 Après qu'ils eurent parlé, elle leur dit: Ainsi parle l'Éternel, le Dieu d'Israël: Dites à l'homme qui vous a envoyés vers moi:\n22.16 Ainsi parle l'Éternel: Voici, je vais faire venir des malheurs sur ce lieu et sur ses habitants, selon toutes les paroles du livre qu'a lu le roi de Juda.\n22.17 Parce qu'ils m'ont abandonné et qu'ils ont offert des parfums à d'autres dieux, afin de m'irriter par tous les ouvrages de leurs mains, ma colère s'est enflammée contre ce lieu, et elle ne s'éteindra point.\n22.18 Mais vous direz au roi de Juda, qui vous a envoyés pour consulter l'Éternel: Ainsi parle l'Éternel, le Dieu d'Israël, au sujet des paroles que tu as entendues:\n22.19 Parce que ton coeur a été touché, parce que tu t'es humilié devant l'Éternel en entendant ce que j'ai prononcé contre ce lieu et contre ses habitants, qui seront un objet d'épouvante et de malédiction, et parce que tu as déchiré tes vêtements et que tu as pleuré devant moi, moi aussi, j'ai entendu, dit l'Éternel.\n22.20 c'est pourquoi, voici, je te recueillerai auprès de tes pères, tu seras recueilli en paix dans ton sépulcre, et tes yeux ne verront pas tous les malheurs que je ferai venir sur ce lieu. Ils rapportèrent au roi cette réponse.",
+				"c_ordre": 4
+			},
+			{
+				"c_id": 5,
+				"c_type": "Lecture",
+				"c_titre": "Matthieu  9:9-13",
+				"c_contenu": "9.9 De là étant allé plus loin, Jésus vit un homme assis au lieu des péages, et qui s'appelait Matthieu. Il lui dit: Suis-moi. Cet homme se leva, et le suivit.\n9.10 Comme Jésus était à table dans la maison, voici, beaucoup de publicains et de gens de mauvaise vie vinrent se mettre à table avec lui et avec ses disciples.\n9.11 Les pharisiens virent cela, et ils dirent à ses disciples: Pourquoi votre maître mange-t-il avec les publicains et les gens de mauvaise vie?\n9.12 Ce que Jésus ayant entendu, il dit: Ce ne sont pas ceux qui se portent bien qui ont besoin de médecin, mais les malades.\n9.13 Allez, et apprenez ce que signifie: Je prends plaisir à la miséricorde, et non aux sacrifices. Car je ne suis pas venu appeler des justes, mais des pécheurs.",
+				"c_ordre": 5
+			},
+			{
+				"c_id": 6,
+				"c_type": "Lecture",
+				"c_titre": "Hébreux 12:2-6",
+				"c_contenu": "12.1 Nous donc aussi, puisque nous sommes environnés d'une si grande nuée de témoins, rejetons tout fardeau, et le péché qui nous enveloppe si facilement, et courons avec persévérance dans la carrière qui nous est ouverte,\n12.2 ayant les regards sur Jésus, le chef et le consommateur de la foi, qui, en vue de la joie qui lui était réservée, a souffert la croix, méprisé l'ignominie, et s'est assis à la droite du trône de Dieu.\n12.3 Considérez, en effet, celui qui a supporté contre sa personne une telle opposition de la part des pécheurs, afin que vous ne vous lassiez point, l'âme découragée.\n12.4 Vous n'avez pas encore résisté jusqu'au sang, en luttant contre le péché.\n12.5 Et vous avez oubliez l'exhortation qui vous est adressée comme à des fils: Mon fils, ne méprise pas le châtiment du Seigneur, Et ne perds pas courage lorsqu'il te reprend;\n12.6 Car le Seigneur châtie celui qu'il aime, Et il frappe de la verge tous ceux qu'il reconnaît pour ses fils.",
+				"c_ordre": 6
+			},
+			{
+				"c_id": 7,
+				"c_type": "Chant",
+				"c_titre": "FF 15:2",
+				"c_contenu": "2. Jesosy Zokiko ô ! Raiso aho\nHo isan'ireo zandrinao tianao\nNeniko ireny taloha fa hiova aho\nRaiso aho ! Raiso aho Jeso ho Anao.\nTompo ô! Tompo ô! Inty aho\nRaiso mba ho isan'ireo zandrinao\nFa izaho 'zay nania dia hiova\nHanaraka ny didinao Jeso!",
+				"c_ordre": 7
+			},
+			{
+				"c_id": 8,
+				"c_type": "Chant",
+				"c_titre": "FFPM 248:1",
+				"c_contenu": "1. Nitondra ny zaza ny reny tao Salema,\nMba hotahin'i Jeso Kristy be indrafo;\nNolavin'ny mpianatra izy,\nNefa hoy Jesosy hoe:\nAvelao ny zaza hanatona izao",
+				"c_ordre": 8
+			},
+			{
+				"c_id": 9,
+				"c_type": "Chant",
+				"c_titre": "FFPM 336",
+				"c_contenu": "1. Ampodio izahay, Jehovah\nAmin'ny fitianao;\nNa aiza na aiza no haleha,\nAoka ho vimbininao:\nÔ! ambino,:,:\nIzahay, mpanomponao.\ \n2. Fa ny teny renay any\nAoka ho tadidy koa,\nKa mba hiasanay saina\nHahazoanay ny soa\nIsan'andro :,:\nIzay hiainanay aty.",
+				"c_ordre": 9
+			},
+			{
+				"c_id": 10,
+				"c_type": "Participants",
+				"c_titre": "Pasteur",
+				"c_contenu": "RAKOTOMALALA Niry",
+				"c_ordre": 10
+			},
+			{
+				"c_id": 11,
+				"c_type": "Participants",
+				"c_titre": "Diakona",
+				"c_contenu": "RAKOTOMALALA Andry",
+				"c_ordre": 11
+			}
+		]
+	}
+	,
+	{
+		"prog_id": 3,
+		"prog_date": "2017-03-19",
+		"prog_desc": "Pentecôte",
+		"contenu":[
+			{
+				"c_id": 1,
+				"c_type": "Chant",
+				"c_titre": "FFPM 7:1,2",
+				"c_contenu": "1. Misaora an'Andriamanitra
+				Izay nanao ny lanitra.
+				Namorona ny tany koa
+				Sy 'zay rehetra mahasoa
+				\
+				2. Derao ny voninahiny,
+				Ankalazao ny heriny,
+				Jereo ny fitiavany
+				Tsy tambonao tononina.",
+				"c_ordre": 1
+			},
+			{
+				"c_id": 2,
+				"c_type": "Chant",
+				"c_titre": "FF 8:1",
+				"c_contenu": "1. Masoko manganohano,
+				Nitomany feno rano
+				Noho ny helok'efa vita,
+				Dia mitony raha nahita
+				Masonao be fiantra
+				Ry Mpamonjy ny mahantra
+				O Voavotrao 'lay very
+				Ry fitiavana mahery. ",
+				"c_ordre": 2
+			},
+			{
+				"c_id": 3,
+				"c_type": "Chant",
+				"c_titre": "FFPM 205:1",
+				"c_contenu": "2. Ny tenin'ny Baiboly
+				No sabatra entinay
+				Handresy ny devoly,
+				'Lay fahavalonay;
+				Raha misy mampahory,
+				Ka osa izahay
+				Ny teninao mahery
+				Manjary tanjakay",
+				"c_ordre": 3
+			},
+			{
+				"c_id": 4,
+				"c_type": "Lecture",
+				"c_titre": "II Rois 22:15-20",
+				"c_contenu": "22.15 Après qu'ils eurent parlé, elle leur dit: Ainsi parle l'Éternel, le Dieu d'Israël: Dites à l'homme qui vous a envoyés vers moi:\n22.16 Ainsi parle l'Éternel: Voici, je vais faire venir des malheurs sur ce lieu et sur ses habitants, selon toutes les paroles du livre qu'a lu le roi de Juda.\n22.17 Parce qu'ils m'ont abandonné et qu'ils ont offert des parfums à d'autres dieux, afin de m'irriter par tous les ouvrages de leurs mains, ma colère s'est enflammée contre ce lieu, et elle ne s'éteindra point.\n22.18 Mais vous direz au roi de Juda, qui vous a envoyés pour consulter l'Éternel: Ainsi parle l'Éternel, le Dieu d'Israël, au sujet des paroles que tu as entendues:\n22.19 Parce que ton coeur a été touché, parce que tu t'es humilié devant l'Éternel en entendant ce que j'ai prononcé contre ce lieu et contre ses habitants, qui seront un objet d'épouvante et de malédiction, et parce que tu as déchiré tes vêtements et que tu as pleuré devant moi, moi aussi, j'ai entendu, dit l'Éternel.\n22.20 c'est pourquoi, voici, je te recueillerai auprès de tes pères, tu seras recueilli en paix dans ton sépulcre, et tes yeux ne verront pas tous les malheurs que je ferai venir sur ce lieu. Ils rapportèrent au roi cette réponse.",
+				"c_ordre": 4
+			},
+			{
+				"c_id": 5,
+				"c_type": "Lecture",
+				"c_titre": "Matthieu  9:9-13",
+				"c_contenu": "9.9 De là étant allé plus loin, Jésus vit un homme assis au lieu des péages, et qui s'appelait Matthieu. Il lui dit: Suis-moi. Cet homme se leva, et le suivit.\n9.10 Comme Jésus était à table dans la maison, voici, beaucoup de publicains et de gens de mauvaise vie vinrent se mettre à table avec lui et avec ses disciples.\n9.11 Les pharisiens virent cela, et ils dirent à ses disciples: Pourquoi votre maître mange-t-il avec les publicains et les gens de mauvaise vie?\n9.12 Ce que Jésus ayant entendu, il dit: Ce ne sont pas ceux qui se portent bien qui ont besoin de médecin, mais les malades.\n9.13 Allez, et apprenez ce que signifie: Je prends plaisir à la miséricorde, et non aux sacrifices. Car je ne suis pas venu appeler des justes, mais des pécheurs.",
+				"c_ordre": 5
+			},
+			{
+				"c_id": 6,
+				"c_type": "Lecture",
+				"c_titre": "Hébreux 12:2-6",
+				"c_contenu": "12.1 Nous donc aussi, puisque nous sommes environnés d'une si grande nuée de témoins, rejetons tout fardeau, et le péché qui nous enveloppe si facilement, et courons avec persévérance dans la carrière qui nous est ouverte,\n12.2 ayant les regards sur Jésus, le chef et le consommateur de la foi, qui, en vue de la joie qui lui était réservée, a souffert la croix, méprisé l'ignominie, et s'est assis à la droite du trône de Dieu.\n12.3 Considérez, en effet, celui qui a supporté contre sa personne une telle opposition de la part des pécheurs, afin que vous ne vous lassiez point, l'âme découragée.\n12.4 Vous n'avez pas encore résisté jusqu'au sang, en luttant contre le péché.\n12.5 Et vous avez oubliez l'exhortation qui vous est adressée comme à des fils: Mon fils, ne méprise pas le châtiment du Seigneur, Et ne perds pas courage lorsqu'il te reprend;\n12.6 Car le Seigneur châtie celui qu'il aime, Et il frappe de la verge tous ceux qu'il reconnaît pour ses fils.",
+				"c_ordre": 6
+			},
+			{
+				"c_id": 7,
+				"c_type": "Chant",
+				"c_titre": "FF 15:2",
+				"c_contenu": "2. Jesosy Zokiko ô ! Raiso aho\nHo isan'ireo zandrinao tianao\nNeniko ireny taloha fa hiova aho\nRaiso aho ! Raiso aho Jeso ho Anao.\nTompo ô! Tompo ô! Inty aho\nRaiso mba ho isan'ireo zandrinao\nFa izaho 'zay nania dia hiova\nHanaraka ny didinao Jeso!",
+				"c_ordre": 7
+			},
+			{
+				"c_id": 8,
+				"c_type": "Chant",
+				"c_titre": "FFPM 248:1",
+				"c_contenu": "1. Nitondra ny zaza ny reny tao Salema,\nMba hotahin'i Jeso Kristy be indrafo;\nNolavin'ny mpianatra izy,\nNefa hoy Jesosy hoe:\nAvelao ny zaza hanatona izao",
+				"c_ordre": 8
+			},
+			{
+				"c_id": 9,
+				"c_type": "Chant",
+				"c_titre": "FFPM 336",
+				"c_contenu": "1. Ampodio izahay, Jehovah\nAmin'ny fitianao;\nNa aiza na aiza no haleha,\nAoka ho vimbininao:\nÔ! ambino,:,:\nIzahay, mpanomponao.\ \n2. Fa ny teny renay any\nAoka ho tadidy koa,\nKa mba hiasanay saina\nHahazoanay ny soa\nIsan'andro :,:\nIzay hiainanay aty.",
+				"c_ordre": 9
+			},
+			{
+				"c_id": 10,
+				"c_type": "Participants",
+				"c_titre": "Pasteur",
+				"c_contenu": "RAKOTOMALALA Niry",
+				"c_ordre": 10
+			},
+			{
+				"c_id": 11,
+				"c_type": "Participants",
+				"c_titre": "Diakona",
+				"c_contenu": "RAKOTOMALALA Andry",
+				"c_ordre": 11
+			}
+		]
+	}
+	,
+	{
+		"prog_id": 4,
+		"prog_date": "2017-03-26",
+		"prog_desc": "Noël",
+		"contenu":[
+			{
+				"c_id": 1,
+				"c_type": "Chant",
+				"c_titre": "FFPM 7:1,2",
+				"c_contenu": "1. Misaora an'Andriamanitra
+				Izay nanao ny lanitra.
+				Namorona ny tany koa
+				Sy 'zay rehetra mahasoa
+				\
+				2. Derao ny voninahiny,
+				Ankalazao ny heriny,
+				Jereo ny fitiavany
+				Tsy tambonao tononina.",
+				"c_ordre": 1
+			},
+			{
+				"c_id": 2,
+				"c_type": "Chant",
+				"c_titre": "FF 8:1",
+				"c_contenu": "1. Masoko manganohano,
+				Nitomany feno rano
+				Noho ny helok'efa vita,
+				Dia mitony raha nahita
+				Masonao be fiantra
+				Ry Mpamonjy ny mahantra
+				O Voavotrao 'lay very
+				Ry fitiavana mahery. ",
+				"c_ordre": 2
+			},
+			{
+				"c_id": 3,
+				"c_type": "Chant",
+				"c_titre": "FFPM 205:1",
+				"c_contenu": "2. Ny tenin'ny Baiboly
+				No sabatra entinay
+				Handresy ny devoly,
+				'Lay fahavalonay;
+				Raha misy mampahory,
+				Ka osa izahay
+				Ny teninao mahery
+				Manjary tanjakay",
+				"c_ordre": 3
+			},
+			{
+				"c_id": 4,
+				"c_type": "Lecture",
+				"c_titre": "II Rois 22:15-20",
+				"c_contenu": "22.15 Après qu'ils eurent parlé, elle leur dit: Ainsi parle l'Éternel, le Dieu d'Israël: Dites à l'homme qui vous a envoyés vers moi:\n22.16 Ainsi parle l'Éternel: Voici, je vais faire venir des malheurs sur ce lieu et sur ses habitants, selon toutes les paroles du livre qu'a lu le roi de Juda.\n22.17 Parce qu'ils m'ont abandonné et qu'ils ont offert des parfums à d'autres dieux, afin de m'irriter par tous les ouvrages de leurs mains, ma colère s'est enflammée contre ce lieu, et elle ne s'éteindra point.\n22.18 Mais vous direz au roi de Juda, qui vous a envoyés pour consulter l'Éternel: Ainsi parle l'Éternel, le Dieu d'Israël, au sujet des paroles que tu as entendues:\n22.19 Parce que ton coeur a été touché, parce que tu t'es humilié devant l'Éternel en entendant ce que j'ai prononcé contre ce lieu et contre ses habitants, qui seront un objet d'épouvante et de malédiction, et parce que tu as déchiré tes vêtements et que tu as pleuré devant moi, moi aussi, j'ai entendu, dit l'Éternel.\n22.20 c'est pourquoi, voici, je te recueillerai auprès de tes pères, tu seras recueilli en paix dans ton sépulcre, et tes yeux ne verront pas tous les malheurs que je ferai venir sur ce lieu. Ils rapportèrent au roi cette réponse.",
+				"c_ordre": 4
+			},
+			{
+				"c_id": 5,
+				"c_type": "Lecture",
+				"c_titre": "Matthieu  9:9-13",
+				"c_contenu": "9.9 De là étant allé plus loin, Jésus vit un homme assis au lieu des péages, et qui s'appelait Matthieu. Il lui dit: Suis-moi. Cet homme se leva, et le suivit.\n9.10 Comme Jésus était à table dans la maison, voici, beaucoup de publicains et de gens de mauvaise vie vinrent se mettre à table avec lui et avec ses disciples.\n9.11 Les pharisiens virent cela, et ils dirent à ses disciples: Pourquoi votre maître mange-t-il avec les publicains et les gens de mauvaise vie?\n9.12 Ce que Jésus ayant entendu, il dit: Ce ne sont pas ceux qui se portent bien qui ont besoin de médecin, mais les malades.\n9.13 Allez, et apprenez ce que signifie: Je prends plaisir à la miséricorde, et non aux sacrifices. Car je ne suis pas venu appeler des justes, mais des pécheurs.",
+				"c_ordre": 5
+			},
+			{
+				"c_id": 6,
+				"c_type": "Lecture",
+				"c_titre": "Hébreux 12:2-6",
+				"c_contenu": "12.1 Nous donc aussi, puisque nous sommes environnés d'une si grande nuée de témoins, rejetons tout fardeau, et le péché qui nous enveloppe si facilement, et courons avec persévérance dans la carrière qui nous est ouverte,\n12.2 ayant les regards sur Jésus, le chef et le consommateur de la foi, qui, en vue de la joie qui lui était réservée, a souffert la croix, méprisé l'ignominie, et s'est assis à la droite du trône de Dieu.\n12.3 Considérez, en effet, celui qui a supporté contre sa personne une telle opposition de la part des pécheurs, afin que vous ne vous lassiez point, l'âme découragée.\n12.4 Vous n'avez pas encore résisté jusqu'au sang, en luttant contre le péché.\n12.5 Et vous avez oubliez l'exhortation qui vous est adressée comme à des fils: Mon fils, ne méprise pas le châtiment du Seigneur, Et ne perds pas courage lorsqu'il te reprend;\n12.6 Car le Seigneur châtie celui qu'il aime, Et il frappe de la verge tous ceux qu'il reconnaît pour ses fils.",
+				"c_ordre": 6
+			},
+			{
+				"c_id": 7,
+				"c_type": "Chant",
+				"c_titre": "FF 15:2",
+				"c_contenu": "2. Jesosy Zokiko ô ! Raiso aho\nHo isan'ireo zandrinao tianao\nNeniko ireny taloha fa hiova aho\nRaiso aho ! Raiso aho Jeso ho Anao.\nTompo ô! Tompo ô! Inty aho\nRaiso mba ho isan'ireo zandrinao\nFa izaho 'zay nania dia hiova\nHanaraka ny didinao Jeso!",
+				"c_ordre": 7
+			},
+			{
+				"c_id": 8,
+				"c_type": "Chant",
+				"c_titre": "FFPM 248:1",
+				"c_contenu": "1. Nitondra ny zaza ny reny tao Salema,\nMba hotahin'i Jeso Kristy be indrafo;\nNolavin'ny mpianatra izy,\nNefa hoy Jesosy hoe:\nAvelao ny zaza hanatona izao",
+				"c_ordre": 8
+			},
+			{
+				"c_id": 9,
+				"c_type": "Chant",
+				"c_titre": "FFPM 336",
+				"c_contenu": "1. Ampodio izahay, Jehovah\nAmin'ny fitianao;\nNa aiza na aiza no haleha,\nAoka ho vimbininao:\nÔ! ambino,:,:\nIzahay, mpanomponao.\ \n2. Fa ny teny renay any\nAoka ho tadidy koa,\nKa mba hiasanay saina\nHahazoanay ny soa\nIsan'andro :,:\nIzay hiainanay aty.",
+				"c_ordre": 9
+			},
+			{
+				"c_id": 10,
+				"c_type": "Participants",
+				"c_titre": "Pasteur",
+				"c_contenu": "RAKOTOMALALA Niry",
+				"c_ordre": 10
+			},
+			{
+				"c_id": 11,
+				"c_type": "Participants",
+				"c_titre": "Diakona",
+				"c_contenu": "RAKOTOMALALA Andry",
+				"c_ordre": 11
+			}
+		]
+	}
+	,
+	{
+		"prog_id": 1,
+		"prog_date": "2017-04-02",
+		"prog_desc": "Nouvel An",
+		"contenu":[
+			{
+				"c_id": 1,
+				"c_type": "Chant",
+				"c_titre": "FFPM 7:1,2",
+				"c_contenu": "1. Misaora an'Andriamanitra
+				Izay nanao ny lanitra.
+				Namorona ny tany koa
+				Sy 'zay rehetra mahasoa
+				\
+				2. Derao ny voninahiny,
+				Ankalazao ny heriny,
+				Jereo ny fitiavany
+				Tsy tambonao tononina.",
+				"c_ordre": 1
+			},
+			{
+				"c_id": 2,
+				"c_type": "Chant",
+				"c_titre": "FF 8:1",
+				"c_contenu": "1. Masoko manganohano,
+				Nitomany feno rano
+				Noho ny helok'efa vita,
+				Dia mitony raha nahita
+				Masonao be fiantra
+				Ry Mpamonjy ny mahantra
+				O Voavotrao 'lay very
+				Ry fitiavana mahery. ",
+				"c_ordre": 2
+			},
+			{
+				"c_id": 3,
+				"c_type": "Chant",
+				"c_titre": "FFPM 205:1",
+				"c_contenu": "2. Ny tenin'ny Baiboly
+				No sabatra entinay
+				Handresy ny devoly,
+				'Lay fahavalonay;
+				Raha misy mampahory,
+				Ka osa izahay
+				Ny teninao mahery
+				Manjary tanjakay",
+				"c_ordre": 3
+			},
+			{
+				"c_id": 4,
+				"c_type": "Lecture",
+				"c_titre": "II Rois 22:15-20",
+				"c_contenu": "22.15 Après qu'ils eurent parlé, elle leur dit: Ainsi parle l'Éternel, le Dieu d'Israël: Dites à l'homme qui vous a envoyés vers moi:\n22.16 Ainsi parle l'Éternel: Voici, je vais faire venir des malheurs sur ce lieu et sur ses habitants, selon toutes les paroles du livre qu'a lu le roi de Juda.\n22.17 Parce qu'ils m'ont abandonné et qu'ils ont offert des parfums à d'autres dieux, afin de m'irriter par tous les ouvrages de leurs mains, ma colère s'est enflammée contre ce lieu, et elle ne s'éteindra point.\n22.18 Mais vous direz au roi de Juda, qui vous a envoyés pour consulter l'Éternel: Ainsi parle l'Éternel, le Dieu d'Israël, au sujet des paroles que tu as entendues:\n22.19 Parce que ton coeur a été touché, parce que tu t'es humilié devant l'Éternel en entendant ce que j'ai prononcé contre ce lieu et contre ses habitants, qui seront un objet d'épouvante et de malédiction, et parce que tu as déchiré tes vêtements et que tu as pleuré devant moi, moi aussi, j'ai entendu, dit l'Éternel.\n22.20 c'est pourquoi, voici, je te recueillerai auprès de tes pères, tu seras recueilli en paix dans ton sépulcre, et tes yeux ne verront pas tous les malheurs que je ferai venir sur ce lieu. Ils rapportèrent au roi cette réponse.",
+				"c_ordre": 4
+			},
+			{
+				"c_id": 5,
+				"c_type": "Lecture",
+				"c_titre": "Matthieu  9:9-13",
+				"c_contenu": "9.9 De là étant allé plus loin, Jésus vit un homme assis au lieu des péages, et qui s'appelait Matthieu. Il lui dit: Suis-moi. Cet homme se leva, et le suivit.\n9.10 Comme Jésus était à table dans la maison, voici, beaucoup de publicains et de gens de mauvaise vie vinrent se mettre à table avec lui et avec ses disciples.\n9.11 Les pharisiens virent cela, et ils dirent à ses disciples: Pourquoi votre maître mange-t-il avec les publicains et les gens de mauvaise vie?\n9.12 Ce que Jésus ayant entendu, il dit: Ce ne sont pas ceux qui se portent bien qui ont besoin de médecin, mais les malades.\n9.13 Allez, et apprenez ce que signifie: Je prends plaisir à la miséricorde, et non aux sacrifices. Car je ne suis pas venu appeler des justes, mais des pécheurs.",
+				"c_ordre": 5
+			},
+			{
+				"c_id": 6,
+				"c_type": "Lecture",
+				"c_titre": "Hébreux 12:2-6",
+				"c_contenu": "12.1 Nous donc aussi, puisque nous sommes environnés d'une si grande nuée de témoins, rejetons tout fardeau, et le péché qui nous enveloppe si facilement, et courons avec persévérance dans la carrière qui nous est ouverte,\n12.2 ayant les regards sur Jésus, le chef et le consommateur de la foi, qui, en vue de la joie qui lui était réservée, a souffert la croix, méprisé l'ignominie, et s'est assis à la droite du trône de Dieu.\n12.3 Considérez, en effet, celui qui a supporté contre sa personne une telle opposition de la part des pécheurs, afin que vous ne vous lassiez point, l'âme découragée.\n12.4 Vous n'avez pas encore résisté jusqu'au sang, en luttant contre le péché.\n12.5 Et vous avez oubliez l'exhortation qui vous est adressée comme à des fils: Mon fils, ne méprise pas le châtiment du Seigneur, Et ne perds pas courage lorsqu'il te reprend;\n12.6 Car le Seigneur châtie celui qu'il aime, Et il frappe de la verge tous ceux qu'il reconnaît pour ses fils.",
+				"c_ordre": 6
+			},
+			{
+				"c_id": 7,
+				"c_type": "Chant",
+				"c_titre": "FF 15:2",
+				"c_contenu": "2. Jesosy Zokiko ô ! Raiso aho\nHo isan'ireo zandrinao tianao\nNeniko ireny taloha fa hiova aho\nRaiso aho ! Raiso aho Jeso ho Anao.\nTompo ô! Tompo ô! Inty aho\nRaiso mba ho isan'ireo zandrinao\nFa izaho 'zay nania dia hiova\nHanaraka ny didinao Jeso!",
+				"c_ordre": 7
+			},
+			{
+				"c_id": 8,
+				"c_type": "Chant",
+				"c_titre": "FFPM 248:1",
+				"c_contenu": "1. Nitondra ny zaza ny reny tao Salema,\nMba hotahin'i Jeso Kristy be indrafo;\nNolavin'ny mpianatra izy,\nNefa hoy Jesosy hoe:\nAvelao ny zaza hanatona izao",
+				"c_ordre": 8
+			},
+			{
+				"c_id": 9,
+				"c_type": "Chant",
+				"c_titre": "FFPM 336",
+				"c_contenu": "1. Ampodio izahay, Jehovah\nAmin'ny fitianao;\nNa aiza na aiza no haleha,\nAoka ho vimbininao:\nÔ! ambino,:,:\nIzahay, mpanomponao.\ \n2. Fa ny teny renay any\nAoka ho tadidy koa,\nKa mba hiasanay saina\nHahazoanay ny soa\nIsan'andro :,:\nIzay hiainanay aty.",
+				"c_ordre": 9
+			},
+			{
+				"c_id": 10,
+				"c_type": "Participants",
+				"c_titre": "Pasteur",
+				"c_contenu": "RAKOTOMALALA Niry",
+				"c_ordre": 10
+			},
+			{
+				"c_id": 11,
+				"c_type": "Participants",
+				"c_titre": "Diakona",
+				"c_contenu": "RAKOTOMALALA Andry",
+				"c_ordre": 11
+			}
+		]
+	}
+	,
+	{
+		"prog_id": 1,
+		"prog_date": "2017-03-05",
+		"prog_desc": "STK Zokiny",
+		"contenu":[
+			{
+				"c_id": 1,
+				"c_type": "Chant",
+				"c_titre": "FFPM 7:1,2",
+				"c_contenu": "1. Misaora an'Andriamanitra
+				Izay nanao ny lanitra.
+				Namorona ny tany koa
+				Sy 'zay rehetra mahasoa
+				\
+				2. Derao ny voninahiny,
+				Ankalazao ny heriny,
+				Jereo ny fitiavany
+				Tsy tambonao tononina.",
+				"c_ordre": 1
+			},
+			{
+				"c_id": 2,
+				"c_type": "Chant",
+				"c_titre": "FF 8:1",
+				"c_contenu": "1. Masoko manganohano,
+				Nitomany feno rano
+				Noho ny helok'efa vita,
+				Dia mitony raha nahita
+				Masonao be fiantra
+				Ry Mpamonjy ny mahantra
+				O Voavotrao 'lay very
+				Ry fitiavana mahery. ",
+				"c_ordre": 2
+			},
+			{
+				"c_id": 3,
+				"c_type": "Chant",
+				"c_titre": "FFPM 205:1",
+				"c_contenu": "2. Ny tenin'ny Baiboly
+				No sabatra entinay
+				Handresy ny devoly,
+				'Lay fahavalonay;
+				Raha misy mampahory,
+				Ka osa izahay
+				Ny teninao mahery
+				Manjary tanjakay",
+				"c_ordre": 3
+			},
+			{
+				"c_id": 4,
+				"c_type": "Lecture",
+				"c_titre": "II Rois 22:15-20",
+				"c_contenu": "22.15 Après qu'ils eurent parlé, elle leur dit: Ainsi parle l'Éternel, le Dieu d'Israël: Dites à l'homme qui vous a envoyés vers moi:\n22.16 Ainsi parle l'Éternel: Voici, je vais faire venir des malheurs sur ce lieu et sur ses habitants, selon toutes les paroles du livre qu'a lu le roi de Juda.\n22.17 Parce qu'ils m'ont abandonné et qu'ils ont offert des parfums à d'autres dieux, afin de m'irriter par tous les ouvrages de leurs mains, ma colère s'est enflammée contre ce lieu, et elle ne s'éteindra point.\n22.18 Mais vous direz au roi de Juda, qui vous a envoyés pour consulter l'Éternel: Ainsi parle l'Éternel, le Dieu d'Israël, au sujet des paroles que tu as entendues:\n22.19 Parce que ton coeur a été touché, parce que tu t'es humilié devant l'Éternel en entendant ce que j'ai prononcé contre ce lieu et contre ses habitants, qui seront un objet d'épouvante et de malédiction, et parce que tu as déchiré tes vêtements et que tu as pleuré devant moi, moi aussi, j'ai entendu, dit l'Éternel.\n22.20 c'est pourquoi, voici, je te recueillerai auprès de tes pères, tu seras recueilli en paix dans ton sépulcre, et tes yeux ne verront pas tous les malheurs que je ferai venir sur ce lieu. Ils rapportèrent au roi cette réponse.",
+				"c_ordre": 4
+			},
+			{
+				"c_id": 5,
+				"c_type": "Lecture",
+				"c_titre": "Matthieu  9:9-13",
+				"c_contenu": "9.9 De là étant allé plus loin, Jésus vit un homme assis au lieu des péages, et qui s'appelait Matthieu. Il lui dit: Suis-moi. Cet homme se leva, et le suivit.\n9.10 Comme Jésus était à table dans la maison, voici, beaucoup de publicains et de gens de mauvaise vie vinrent se mettre à table avec lui et avec ses disciples.\n9.11 Les pharisiens virent cela, et ils dirent à ses disciples: Pourquoi votre maître mange-t-il avec les publicains et les gens de mauvaise vie?\n9.12 Ce que Jésus ayant entendu, il dit: Ce ne sont pas ceux qui se portent bien qui ont besoin de médecin, mais les malades.\n9.13 Allez, et apprenez ce que signifie: Je prends plaisir à la miséricorde, et non aux sacrifices. Car je ne suis pas venu appeler des justes, mais des pécheurs.",
+				"c_ordre": 5
+			},
+			{
+				"c_id": 6,
+				"c_type": "Lecture",
+				"c_titre": "Hébreux 12:2-6",
+				"c_contenu": "12.1 Nous donc aussi, puisque nous sommes environnés d'une si grande nuée de témoins, rejetons tout fardeau, et le péché qui nous enveloppe si facilement, et courons avec persévérance dans la carrière qui nous est ouverte,\n12.2 ayant les regards sur Jésus, le chef et le consommateur de la foi, qui, en vue de la joie qui lui était réservée, a souffert la croix, méprisé l'ignominie, et s'est assis à la droite du trône de Dieu.\n12.3 Considérez, en effet, celui qui a supporté contre sa personne une telle opposition de la part des pécheurs, afin que vous ne vous lassiez point, l'âme découragée.\n12.4 Vous n'avez pas encore résisté jusqu'au sang, en luttant contre le péché.\n12.5 Et vous avez oubliez l'exhortation qui vous est adressée comme à des fils: Mon fils, ne méprise pas le châtiment du Seigneur, Et ne perds pas courage lorsqu'il te reprend;\n12.6 Car le Seigneur châtie celui qu'il aime, Et il frappe de la verge tous ceux qu'il reconnaît pour ses fils.",
+				"c_ordre": 6
+			},
+			{
+				"c_id": 7,
+				"c_type": "Chant",
+				"c_titre": "FF 15:2",
+				"c_contenu": "2. Jesosy Zokiko ô ! Raiso aho\nHo isan'ireo zandrinao tianao\nNeniko ireny taloha fa hiova aho\nRaiso aho ! Raiso aho Jeso ho Anao.\nTompo ô! Tompo ô! Inty aho\nRaiso mba ho isan'ireo zandrinao\nFa izaho 'zay nania dia hiova\nHanaraka ny didinao Jeso!",
+				"c_ordre": 7
+			},
+			{
+				"c_id": 8,
+				"c_type": "Chant",
+				"c_titre": "FFPM 248:1",
+				"c_contenu": "1. Nitondra ny zaza ny reny tao Salema,\nMba hotahin'i Jeso Kristy be indrafo;\nNolavin'ny mpianatra izy,\nNefa hoy Jesosy hoe:\nAvelao ny zaza hanatona izao",
+				"c_ordre": 8
+			},
+			{
+				"c_id": 9,
+				"c_type": "Chant",
+				"c_titre": "FFPM 336",
+				"c_contenu": "1. Ampodio izahay, Jehovah\nAmin'ny fitianao;\nNa aiza na aiza no haleha,\nAoka ho vimbininao:\nÔ! ambino,:,:\nIzahay, mpanomponao.\ \n2. Fa ny teny renay any\nAoka ho tadidy koa,\nKa mba hiasanay saina\nHahazoanay ny soa\nIsan'andro :,:\nIzay hiainanay aty.",
+				"c_ordre": 9
+			},
+			{
+				"c_id": 10,
+				"c_type": "Participants",
+				"c_titre": "Pasteur",
+				"c_contenu": "RAKOTOMALALA Niry",
+				"c_ordre": 10
+			},
+			{
+				"c_id": 11,
+				"c_type": "Participants",
+				"c_titre": "Diakona",
+				"c_contenu": "RAKOTOMALALA Andry",
+				"c_ordre": 11
+			}
+		]
+	}
+]

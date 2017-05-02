@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChurchProg</string>
+    <!-- Menu items -->
+    <string name="menu_accueil">Accueil</string>
+    <string name="menu_prog">Programme</string>
+    <string name="menu_archives">Archives</string>
+    <!-- Autres -->
+    <string name="no_records">Aucun enregistrement</string>
+</resources>
